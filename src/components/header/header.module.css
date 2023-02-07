@@ -1,0 +1,26 @@
+.header {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  width: 90vw;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  font-size: 24px;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.ul {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.li {
+  list-style: none;
+}
