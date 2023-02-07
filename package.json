@@ -1,6 +1,7 @@
 {
   "name": "leafasist",
   "private": true,
+  "homepage": "http://KritiusOne.github.io/Hoja-Virtual-Asistencia-Prototipo",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
